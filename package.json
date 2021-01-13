@@ -1,0 +1,22 @@
+{
+  "name": "heart-watch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmcdo29/heart-watch.git"
+  },
+  "author": "Jay McDoniel <jmcdo29@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmcdo29/heart-watch/issues"
+  },
+  "homepage": "https://github.com/jmcdo29/heart-watch#readme",
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
