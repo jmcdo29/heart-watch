@@ -1,4 +1,4 @@
-export interface Person {
+export interface Character {
   eyeColor: string;
   gender: string;
   hairColor: string;
